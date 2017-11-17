@@ -15,11 +15,14 @@
 - Ruby on Rails | Coming soon
 - Django | Coming soon
 - Flask | Coming soon
+- Pyramid | Coming soon
+- Pylon | Coming soon
 - EmberJs | Coming soon
 - AngularJS | Coming soon
 - Angular 2.0+ | Coming soon
 - Vue.js | Coming soon
 - React | Coming soon
+- Ploymer | Coming soon
 
 #### CSS
 - Bootstrap
@@ -39,11 +42,35 @@
 - Embeded C | Coming soon
 - Elixir | Coming soon
 - Preact | Coming soon
+- Scala | Coming soon
+- R | Coming soon
+- Go | Coming Soon
 
 #### Tools
 - Docker | Coming soon
 
+#### Design
+- [Figma](https://www.figma.com) - Available for all OS
+- [Sketch](https://www.sketchapp.com/) - Available only for Mac users | Need to purchase Licence
 
-P.S.
+#### VR / AR / MR - Coming soon
 
-Please add more and give PULL request so that we can discuss and take it further.
+#### AI
+- [TensorFlow](https://www.tensorflow.org/) - Coming soon
+
+#### Devices
+- [Amazon Alexa](https://developer.amazon.com/alexa) - Coming soon
+- [Google Home](https://www.youtube.com/watch?v=2KpLHdAURGo) - Coming soon
+- [Raspberry pi](https://www.raspberrypi.org/) - Coming soon
+
+
+---
+### Contribution
+ - To add more topics, Please add your comment in https://github.com/prasannavijayan/Learn/issues/2.
+ - To add more links to particular topic. Please add your comment in particular topic issue - https://github.com/prasannavijayan/Learn/issues
+
+
+### Authors
+- Prasanna Vijayan
+- Prasanth
+- Seshan
