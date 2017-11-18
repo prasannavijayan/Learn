@@ -55,7 +55,7 @@
 
 #### VR / AR / MR - Coming soon
 
-#### AI
+#### ML
 - [TensorFlow](https://www.tensorflow.org/) - Coming soon
 
 #### Devices
