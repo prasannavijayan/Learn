@@ -1,11 +1,14 @@
 ### Learn technology
 ---
 
+#### Template - To add new technology, frameworks, snippets or any tool
+Template Reference :  https://github.com/prasannavijayan/Learn/wiki/
+
 #### Most Commonly used tools
 - [Git](https://github.com/gdgmadurai/gdgmadurai.github.io/wiki/GIT)
 
 #### Web Basics
-- HTML | Coming soon
+- [HTML](https://github.com/prasannavijayan/Learn/wiki/HTML)
 - CSS | Coming soon
 - JS | Coming soon
 - TypeScript | Coming soon
