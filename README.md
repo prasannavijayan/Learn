@@ -5,7 +5,7 @@
 Template Reference :  https://github.com/prasannavijayan/Learn/wiki/
 
 #### Most Commonly used tools
-- [Git](https://github.com/gdgmadurai/gdgmadurai.github.io/wiki/GIT)
+- [Git](https://github.com/prasannavijayan/Learn/wiki/Git)
 
 #### Web Basics
 - [HTML](https://github.com/prasannavijayan/Learn/wiki/HTML)
